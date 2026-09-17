@@ -1,7 +1,8 @@
 {
   "pack": {
-    "description": "§aVersion: §b1.0 §b Remove AI from mobs with NoAI nameTag §6by Darkvodou",
+    "description": "§aVersion: §b1.0.1 §b Remove AI from mobs with NoAI nameTag §6by Darkvodou",
     "min_format": 88,
-    "max_format": 88
+    "max_format": 88,
+    "pack_format": 88
   }
 }
